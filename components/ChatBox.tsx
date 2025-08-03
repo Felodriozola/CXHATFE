@@ -1,0 +1,1 @@
+// mismo contenido anterior del componente ChatBox.tsx simplificado

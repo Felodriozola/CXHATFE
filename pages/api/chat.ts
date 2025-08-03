@@ -1,0 +1,1 @@
+// mismo contenido funcional del API chat.ts

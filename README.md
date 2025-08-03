@@ -1,0 +1,1 @@
+Instrucciones de uso local para CulturaBot

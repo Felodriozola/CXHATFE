@@ -1,0 +1,1 @@
+// mismo contenido anterior de index.tsx
